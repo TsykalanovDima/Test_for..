@@ -3,7 +3,7 @@ name: Trigger Test_auto_1
 on:
   push:
     branches:
-      - master
+      - master 
 
 jobs:
   notify_test_auto_1:
